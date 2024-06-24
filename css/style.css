@@ -1,0 +1,30 @@
+img {
+    width: 120px;
+    height: 120px;
+}
+span {
+    margin: 50px;
+}
+#logo {
+    width: 50px;
+    height: 50px;
+}
+.image {
+    width: 50px;
+    height: 50px;
+}
+.button a {
+    padding: 10px;
+    border-radius: 5PX;
+    text-align: center;
+    color: white;
+    background-color: rgb(57, 127, 197);
+    text-decoration: none;
+
+}
+.button {
+    margin: 5px;
+}
+input {
+    margin: 5px;
+}
